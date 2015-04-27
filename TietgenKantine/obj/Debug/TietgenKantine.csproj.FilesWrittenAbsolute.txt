@@ -1,0 +1,8 @@
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/obj/Debug/TietgenKantine.Form1.resources
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/obj/Debug/TietgenKantine.Properties.Resources.resources
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/bin/Debug/TietgenKantine.exe.config
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/bin/Debug/TietgenKantine.exe.mdb
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/bin/Debug/TietgenKantine.exe
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/obj/Debug/TietgenKantine.exe
+/Users/martingronkjaer/Downloads/TietgenKantine-master/TietgenKantine/obj/Debug/TietgenKantine.exe.mdb

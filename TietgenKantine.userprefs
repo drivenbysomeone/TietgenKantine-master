@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TietgenKantine/TietgenKantine.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TietgenKantine/Form1.resx">
+    <Files>
+      <File FileName="TietgenKantine/Form1.resx" Line="1" Column="1" />
+      <File FileName="TietgenKantine/Program.cs" Line="1" Column="1" />
+      <File FileName="TietgenKantine/Test.cs" Line="1" Column="1" />
+      <File FileName="TietgenKantine/MainCourse.cs" Line="1" Column="1" />
+      <File FileName="TietgenKantine/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
